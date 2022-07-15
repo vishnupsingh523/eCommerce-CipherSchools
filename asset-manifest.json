@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eCommerce-CipherSchools/static/css/main.8d9508dc.css",
-    "main.js": "/eCommerce-CipherSchools/static/js/main.77f9c9e0.js",
+    "main.js": "/eCommerce-CipherSchools/static/js/main.fddad946.js",
     "static/js/787.dcc73137.chunk.js": "/eCommerce-CipherSchools/static/js/787.dcc73137.chunk.js",
     "index.html": "/eCommerce-CipherSchools/index.html",
     "main.8d9508dc.css.map": "/eCommerce-CipherSchools/static/css/main.8d9508dc.css.map",
-    "main.77f9c9e0.js.map": "/eCommerce-CipherSchools/static/js/main.77f9c9e0.js.map",
+    "main.fddad946.js.map": "/eCommerce-CipherSchools/static/js/main.fddad946.js.map",
     "787.dcc73137.chunk.js.map": "/eCommerce-CipherSchools/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d9508dc.css",
-    "static/js/main.77f9c9e0.js"
+    "static/js/main.fddad946.js"
   ]
 }
